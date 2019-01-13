@@ -1,0 +1,163 @@
+{
+  "links": {
+    "home": "首页",
+    "english": "English",
+    "chinese": "中文"
+  },
+  "home": {
+    "title": "首页",
+    "description": "这是首页",
+    "banner_data":{
+      "title":"Fangsea.io 全球房产加密货币交易平台",
+      "desc":"通过利用Fangsea平台，能够使房地产投资⼩额化、动产化、透明化，实现信息透明化，可信化，提高交易的便捷性。"
+    },
+    "parject_data":{
+      "title":"项目介绍",
+      "desc":"房地产是全球最⼤的资产类别，也是投资效率最低的资产之⼀，投资⻔槛⾼、 流动性差、跨国交易困难。受制于线下交易的模式，传统互联⽹难以令房产交易变得⾼效、⽅便、透明。<br/><br/>我们将利⽤区块链技术改进传统的线下交易模式，依靠通证经济实现房产跨境交易、低投资⻔槛和⾼流动性，并且借鉴传统的房地产投资⼯具，⽐如 REITs，让资产持有者可以通过第三⽅前期的审核、⻛控、资产包收益预估，快速把房地产资产所有权及收益权交易。"
+    },
+    "business":{
+      "title":"商业模式",
+      "data":[
+        {
+          "title":"加密货币⽀付",
+          "desc":"FST (FangSea Token) 是FANGSEA.IO平台发⾏流通的通证，也是整个⽣态体系的价值载体，主要体现在三个⽅⾯：",
+          "sublist":[
+            {
+              "subtitle":"使⽤权",
+              "subDesclist":[
+                "⽤户可以使⽤FST⽀付FANGSEA.IO平台各类交易费⽤，例如：交易佣⾦，房产上市费⽤，房产租⾦等",
+                "⽤户可以使⽤FST购买FANGSEA.IO平台各类服务产品，例如：⽀付保险，提现保险等 - ⽤户可以使⽤FST投资FANGSEA.IO平台的上市房产通证，例如：住宅项⽬通证，商业项⽬通证，酒店项⽬通证等"
+              ]
+            },
+            {
+              "subtitle":"回购权",
+              "subDesclist":[
+                "FANGSEA.IO平台会根据市场运营状况，不定期回购FST，保障持有者的通证利益 • 投票权 - FST持有者享有FANGSEA.IO平台的投票权益，可以依据相应规则投票表决平台的重⼤管理、运营事项、房产通证上市和退市、第 三⽅服务机构的选取等"
+              ]
+            },
+            {
+              "subtitle":"投票权",
+              "subDesclist":[
+                "FST持有者享有FANGSEA.IO平台的投票权益，可以依据相应规则投票表决平台的重⼤管理、运营事项、房产通证上市和退市、第 三⽅服务机构的选取等"
+              ]
+            }
+          ]
+        },
+        {
+          "title":"房产通证上市和通证交易",
+          "desc":"",
+          "sublist":[
+            {
+              "subtitle":"",
+              "subDesclist":["房产持有者可以通过FANGSEA.IO平台⾃主申请将其资产通证化，这⼀过程 简称房产通证化PTO (Property Token Offering) 。"]
+            },
+            {
+              "subtitle":"",
+              "subDesclist":["成功通过PTO投票的房产会利⽤FANGSEA.IO平台⽣成代表其权益的房产通 证PT（Property Token），并在FANGSEA.IO平台上市交易。"]
+            }
+          ]
+        },
+        {
+          "title":"房产通证PT",
+          "desc":"PT (Property Token) 是房产项⽬在FANGSEA.IO平台上发⾏的通证，其价值主要体现在两个⽅⾯：",
+          "sublist":[
+            {
+              "subtitle":"所有权",
+              "subDesclist":[
+                "⽤户通过投资PT来持有房产的数字产权，房产实际产权将由线下对应的特殊⽬的机构SPV持有。",
+                "PT持有者可以获得房产的租⾦收益。 - PT持有者可以获得出售房产的利润收益。"
+              ]
+            },
+            {
+              "subtitle":"投票权",
+              "subDesclist":[
+                "PT持有者享有所投房产的投票权，可以依据相应规则投票表决该房产的物业管理、收购出售、第三⽅服务机构的选取等。"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "timeline":{
+      "title":"进展规划",
+      "data":[
+        {
+          "date":"2018年2月",
+          "desc":"项目调研和概念论证"
+        },{
+          "date":"2018年5月",
+          "desc":"技术调研和穿刺"
+        },{
+          "date":"2018年8月",
+          "desc":"FST私募"
+        },{
+          "date":"2018年10月",
+          "desc":"FANGSEA.IO基金会落地"
+        },{
+          "date":"2018年10月",
+          "desc":"FST交易所上市"
+        },{
+          "date":"2018年10月",
+          "desc":"FANGSEA.IO平台上线房产交易加密货币支付"
+        },{
+          "date":"2019年10月",
+          "desc":"FANGSEA.IO平台上线房产通证上市和交易"
+        },{
+          "date":"2020年",
+          "desc":"FANGSEA.IO平台支持跨链交易"
+        },{
+          "date":"2020年",
+          "desc":"FST公链发布"
+        },{
+          "date":"2021年",
+          "desc":"FST生态体系"
+        }
+      ]
+    },
+    "estate":{
+      "title":"房产通证",
+      "data":[
+        {
+          "url":"/1.png",
+          "desc":"房产持有者发起 PTO申请"
+        },{
+          "url":"/2.png",
+          "desc":"房产尽职调查PDD"
+        },{
+          "url":"/3.png",
+          "desc":" FST持有者投票表决是否通过PTO"
+        },{
+          "url":"/4.png",
+          "desc":"平台生成房产通证 PT"
+        },{
+          "url":"/5.png",
+          "desc":"PT众筹销售"
+        },{
+          "url":"/6.png",
+          "desc":"PT上市交易"
+        }
+      ]
+    },
+    "funds":{
+      "title":"资金分配",
+      "data":[
+        {
+          "name":"机构投资者和天使投资人",
+          "value":15
+        },{
+          "name":"社区推广奖励",
+          "value":5
+        },{
+          "name":"流通比例",
+          "value":25
+        },{
+          "name":"基金会代持",
+          "value":40
+        },{
+          "name":"基金会员工",
+          "value":15
+        }
+      ]
+    }
+  }
+}
